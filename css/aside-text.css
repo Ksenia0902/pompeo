@@ -1,0 +1,40 @@
+.aside{
+    position: absolute;
+    left: -15%;
+
+}
+
+.aside-vases{
+    position: absolute;
+    right: -15%;
+    top: 50%;
+}
+
+.aside-collection{
+    position: absolute;
+    left: -5%;
+    top: 50%;
+    
+}
+
+.aside-text {
+    max-width: 213px;
+    width: 100%;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 34px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #DBDBDB;
+    transform: rotate(-90deg);
+}
+
+.vases-text{
+    font-size: 20px;
+    max-width: 233px;
+}
+
+.collection-text{
+    font-size: 19px;
+    max-width: 273px;
+}
